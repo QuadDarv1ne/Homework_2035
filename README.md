@@ -27,6 +27,13 @@
 - Bauman Moscow State Technical University (BMSTU, Bauman MSTU): https://bmstu.ru/
 - Оформляем README-файл профиля на GitHub : https://habr.com/ru/post/649363/
 
+# TODO: CODE
+![logo](https://user-images.githubusercontent.com/51045274/214671992-0bd7acce-e438-4b7a-b863-233d92cd3421.svg)
+``` 
+import this
+```
+![image](https://user-images.githubusercontent.com/51045274/214673181-0a2755f3-68c3-4f34-881e-09c7428128ce.png)
+
 ### О курсе:
 
 # 1. University 2035. Development in Python. First level.
@@ -60,5 +67,5 @@ ANO DO "REC MSTU named after N.E. Bauman"
 - 📱+7-915-048-02-49
 - 📱+7-901-706-51-76
 
-📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂️
-🧑‍💻 Thank's for watching (^-^")~
+- 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂️
+- 🧑‍💻 Thank's for watching (^-^")~
