@@ -27,8 +27,38 @@
 - Bauman Moscow State Technical University (BMSTU, Bauman MSTU): https://bmstu.ru/
 - Оформляем README-файл профиля на GitHub : https://habr.com/ru/post/649363/
 
-# 📫 How to reach me:
+### О курсе:
+
+# 1. University 2035. Development in Python. First level.
+## What I teach and what you will know:
+- [X] Basic information about the Python programming language (Collections and data structures);
+- [X] Have an idea about the structure of the program, the basics of programming in high-level languages;
+- [X] Basic algorithmic constructions;
+- [X] The content of the program development stages: algorithmization-coding-debugging-testing;
+- [X] Additional features of the Python language for expressing various algorithmic situations;
+- [X] Algorithms and programs in Python for solving simple, complex and non-standard problems in the mathematical field;
+- [X] The basics of developing simple games in the Python programming system.
+- [X] Understanding of working with various IDEs (Integrated Development Environment) is an integrated, single development environment that is used by developers to create various software.
+
+# 2. University 2035. Development in C++. First level.
+## What I teach and what you will know:
+- [X] Main types of algorithms;
+- [X] Have an idea about the structure of the program, the basics of programming in high-level languages;
+- [X] Basic algorithmic constructions;
+- [X] The content of the program development stages: algorithmization-coding-debugging-testing;
+- [X] Additional features of the C++ language for expressing various algorithmic situations;
+- [X] Algorithms and programs in C++ language for solving simple, complex and non-standard problems in the mathematical field;
+- [X] The basics of developing simple games in the C++ programming system.
+
+:heavy_check_mark: The course provides:
+ANO DO "REC MSTU named after N.E. Bauman"
+- © 2022-2023 Engineering
+
+# 📫 How to reach for me:
 - 📨 maksimqwe42@mail.ru
 - :gem: Telegram: @QuadD4rv1n7
 - 📱+7-915-048-02-49
 - 📱+7-901-706-51-76
+
+📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂️
+🧑‍💻 Thank's for watching (^-^")~
